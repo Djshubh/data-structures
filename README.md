@@ -1,192 +1,190 @@
 # data-structures
 basic data structure programs, algorithm implementation implementations
 
-TOPICS TO BE COVERED :
+<h3>TOPICS TO BE COVERED :</h3>
+<br>
+<b>Linked List:</b>
+<br>
+<b>Singly Linked List:</b>
+<br>
+<b>Introduction to Linked List</b> 
+<br> Linked List vs Array
+<br> Linked List Insertion
+<br> Linked List Deletion (Deleting a given key)
+<br> Linked List Deletion (Deleting a key at given position)
+<br> A Programmer’s approach of looking at Array vs. Linked List
+<br> Find Length of a Linked List (Iterative and Recursive)
+<br> How to write C functions that modify head pointer of a Linked List?
+<br> Swap nodes in a linked list without swapping data
+<br> Reverse a linked list
+<br> Merge two sorted linked lists
+<br> Merge Sort for Linked Lists
+<br> Reverse a Linked List in groups of given size
+<br> Add two numbers represented by linked lists | Set 1
+<br> Rotate a Linked List
 
-Linked List:
+<br><b> Circular Linked List:</b>
 
-Singly Linked List:
+<br> Circular Linked List Introduction and Applications,
+<br>  Circular Linked List Traversal
+<br>  Split a Circular Linked List into two halves
+<br> Sorted insert for circular linked list
+<br> Doubly Linked List:
 
-Introduction to Linked List 
-| Linked List vs Array
-| Linked List Insertion
-| Linked List Deletion (Deleting a given key)
-| Linked List Deletion (Deleting a key at given position)
-| A Programmer’s approach of looking at Array vs. Linked List
-| Find Length of a Linked List (Iterative and Recursive)
-| How to write C functions that modify head pointer of a Linked List?
-| Swap nodes in a linked list without swapping data
-| Reverse a linked list
-| Merge two sorted linked lists
-| Merge Sort for Linked Lists
-| Reverse a Linked List in groups of given size
-| Detect and Remove Loop in a Linked List
-| Add two numbers represented by linked lists | Set 1
-| Rotate a Linked List
-| Generic Linked List in C
-| Circular Linked List:
+<br> Doubly Linked List Introduction and Insertion
+<br> Delete a node in a Doubly Linked List
+<br> Reverse a Doubly Linked List
+<br> The Great Tree-List Recursion Problem.
+<br> QuickSort on Doubly Linked List
+<br> Merge Sort for Doubly Linked List
+<br>
+<b>Stack:</b>
 
-| Circular Linked List Introduction and Applications,
-|  Circular Linked List Traversal
-|  Split a Circular Linked List into two halves
-| Sorted insert for circular linked list
-| Doubly Linked List:
+<br> Introduction to Stack
+<br> Infix to Postfix Conversion using Stack
+<br> Evaluation of Postfix Expression
+<br> Reverse a String using Stack
+<br> Implement two stacks in an array
+<br> Check for balanced parentheses in an expression
+<br> Next Greater Element
+<br> Reverse a stack using recursion
+<br> Sort a stack using recursion
+<br> The Stock Span Problem
+<br> Design and Implement Special Stack Data Structure
+<br> Implement Stack using Queues
+<br> Design a stack with operations on middle element
+<br> How to efficiently implement k stacks in a single array?
+<br> Sort a stack using recursion
+<br>
+<b>Queue:</b>
 
-| Doubly Linked List Introduction and Insertion
-| Delete a node in a Doubly Linked List
-| Reverse a Doubly Linked List
-| The Great Tree-List Recursion Problem.
-| QuickSort on Doubly Linked List
-| Merge Sort for Doubly Linked List
+<br> Queue Introduction and Array Implementation
+<br> Linked List Implementation of Queue
+<br> Applications of Queue Data Structure
+<br> Priority Queue Introduction
+<br> Deque (Introduction and Applications)
+<br> Implement Queue using Stacks
+<br> Find the first circular tour that visits all petrol pumps
+<br> Maximum of all subarrays of size k
+<br> An Interesting Method to Generate Binary Numbers from 1 to n
+<br> How to efficiently implement k Queues in a single array?
+<br>
+<b>Binary Tree:</b>
 
-Stack:
+<br> Binary Tree Introduction
+<br> Handshaking Lemma and Interesting Tree Properties
+<br> Binary Tree Properties
+<br> Types of Binary Tree
+<br> Enumeration of Binary Tree
+<br> Applications of tree data structure
+<br> Tree Traversals
+<br> BFS vs DFS for Binary Tree
+<br> Level Order Tree Traversal
+<br> Diameter of a Binary Tree
+<br> Inorder Tree Traversal without Recursion
+<br> Inorder Tree Traversal without recursion and without stack!
+<br> Threaded Binary Tree
+<br> Maximum Depth or Height of a Tree
+<br> If you are given two traversal sequences, can you construct the binary tree?
+<br> Clone a Binary Tree with Random Pointers
+<br> Construct Tree from given Inorder and Preorder traversals
+<br> Maximum width of a binary tree
+<br> Print nodes at k distance from root
+<br> Print Ancestors of a given node in Binary Tree
+<br> Check if a binary tree is subtree of another binary tree
+<br> Connect nodes at same level
+<br>
+<b>Binary Search Tree:</b>
 
-| Introduction to Stack
-| Infix to Postfix Conversion using Stack
-| Evaluation of Postfix Expression
-| Reverse a String using Stack
-| Implement two stacks in an array
-| Check for balanced parentheses in an expression
-| Next Greater Element
-| Reverse a stack using recursion
-| Sort a stack using recursion
-| The Stock Span Problem
-| Design and Implement Special Stack Data Structure
-| Implement Stack using Queues
-| Design a stack with operations on middle element
-| How to efficiently implement k stacks in a single array?
-| Sort a stack using recursion
+<br> Search and Insert in BST
+<br> Deletion from BST
+<br> Minimum value in a Binary Search Tree
+<br> Inorder predecessor and successor for a given key in BST
+<br> Check if a binary tree is BST or not
+<br> Lowest Common Ancestor in a Binary Search Tree.
+<br> Inorder Successor in Binary Search Tree
+<br> Find k-th smallest element in BST (Order Statistics in BST)
+<br> Merge two BSTs with limited extra space
+<br> Two nodes of a BST are swapped, correct the BST
+<br> Floor and Ceil from a BST
+<br> In-place conversion of Sorted DLL to Balanced BST
+<br> Find a pair with given sum in a Balanced BST
+<br> Total number of possible Binary Search Trees with n keys
+<br> Merge Two Balanced Binary Search Trees
+<br> Binary Tree to Binary Search Tree Conversion
+<br>
+<b>Heap:</b>
 
-Queue:
-
-| Queue Introduction and Array Implementation
-| Linked List Implementation of Queue
-| Applications of Queue Data Structure
-| Priority Queue Introduction
-| Deque (Introduction and Applications)
-| Implement Queue using Stacks
-| Find the first circular tour that visits all petrol pumps
-| Maximum of all subarrays of size k
-| An Interesting Method to Generate Binary Numbers from 1 to n
-| How to efficiently implement k Queues in a single array?
-
-Binary Tree:
-
-| Binary Tree Introduction
-| Handshaking Lemma and Interesting Tree Properties
-| Binary Tree Properties
-| Types of Binary Tree
-| Enumeration of Binary Tree
-| Applications of tree data structure
-| Tree Traversals
-| BFS vs DFS for Binary Tree
-| Level Order Tree Traversal
-| Diameter of a Binary Tree
-| Inorder Tree Traversal without Recursion
-| Inorder Tree Traversal without recursion and without stack!
-| Threaded Binary Tree
-| Maximum Depth or Height of a Tree
-| If you are given two traversal sequences, can you construct the binary tree?
-| Clone a Binary Tree with Random Pointers
-| Construct Tree from given Inorder and Preorder traversals
-| Maximum width of a binary tree
-| Print nodes at k distance from root
-| Print Ancestors of a given node in Binary Tree
-| Check if a binary tree is subtree of another binary tree
-| Connect nodes at same level
-
-Binary Search Tree:
-
-| Search and Insert in BST
-| Deletion from BST
-| Minimum value in a Binary Search Tree
-| Inorder predecessor and successor for a given key in BST
-| Check if a binary tree is BST or not
-| Lowest Common Ancestor in a Binary Search Tree.
-| Inorder Successor in Binary Search Tree
-| Find k-th smallest element in BST (Order Statistics in BST)
-| Merge two BSTs with limited extra space
-| Two nodes of a BST are swapped, correct the BST
-| Floor and Ceil from a BST
-| In-place conversion of Sorted DLL to Balanced BST
-| Find a pair with given sum in a Balanced BST
-| Total number of possible Binary Search Trees with n keys
-| Merge Two Balanced Binary Search Trees
-| Binary Tree to Binary Search Tree Conversion
-
-Heap:
-
-Binary Heap
-| Why is Binary Heap Preferred over BST for Priority Queue?
-| Binomial Heap
-| Fibonacci Heap
-| Heap Sort
-| K’th Largest Element in an array
-| Sort an almost sorted array/
-| Tournament Tree (Winner Tree) and Binary Heap
-
-Hashing:
-
+<br>Binary Heap
+<br> Why is Binary Heap Preferred over BST for Priority Queue?
+<br> Binomial Heap
+<br> Fibonacci Heap
+<br> Heap Sort
+<br> K’th Largest Element in an array
+<br> Sort an almost sorted array/
+<br> Tournament Tree (Winner Tree) and Binary Heap
+<br>
+<b>Hashing:</b>
+<br>
 Hashing Introduction
-| Separate Chaining for Collision Handling
-| Open Addressing for Collision Handling
-| Print a Binary Tree in Vertical Order
-| Find whether an array is subset of another array
-| Union and Intersection of two Linked Lists
-| Find a pair with given sum
-| Check if a given array contains duplicate elements within k distance from each other
-| Find Itinerary from a given list of tickets
-| Find number of Employees Under every Employee
-
-Graph:
-
-| Introduction, DFS and BFS:
-| Graph and its representations
-| Breadth First Traversal for a Graph
-| Depth First Traversal for a Graph
-| Applications of Depth First Search
-| Applications of Breadth First Traversal
-| Detect Cycle in a Directed Graph
-| Detect Cycle in a an Undirected Graph
-| Detect cycle in an undirected graph
-| Longest Path in a Directed Acyclic Graph
-| Topological Sorting
-| Check whether a given graph is Bipartite or not
-| Snake and Ladder Problem
-| Minimize Cash Flow among a given set of friends who have borrowed money from each other
-| Boggle (Find all possible words in a board of characters)
-| Assign directions to edges so that the directed graph remains acyclic
-
-
-Advanced Data Structure:
-
+<br> Separate Chaining for Collision Handling
+<br> Open Addressing for Collision Handling
+<br> Print a Binary Tree in Vertical Order
+<br> Find whether an array is subset of another array
+<br> Union and Intersection of two Linked Lists
+<br> Find a pair with given sum
+<br> Check if a given array contains duplicate elements within k distance from each other
+<br> Find Itinerary from a given list of tickets
+<br> Find number of Employees Under every Employee
+<br>
+<b>Graph:</b>
+<br>
+<br> Introduction, DFS and BFS:
+<br> Graph and its representations
+<br> Breadth First Traversal for a Graph
+<br> Depth First Traversal for a Graph
+<br> Applications of Depth First Search
+<br> Applications of Breadth First Traversal
+<br> Detect Cycle in a Directed Graph
+<br> Detect Cycle in a an Undirected Graph
+<br> Detect cycle in an undirected graph
+<br> Longest Path in a Directed Acyclic Graph
+<br> Topological Sorting
+<br> Check whether a given graph is Bipartite or not
+<br> Snake and Ladder Problem
+<br> Minimize Cash Flow among a given set of friends who have borrowed money from each other
+<br> Boggle (Find all possible words in a board of characters)
+<br> Assign directions to edges so that the directed graph remains acyclic
+<br>
+<b>Advanced Data Structure:</b>
+<br>
 Advanced Lists:
+<br>
+<br> Memory efficient doubly linked list
+<br> XOR Linked List – A Memory Efficient Doubly Linked List | Set 1
+<br> XOR Linked List – A Memory Efficient Doubly Linked List | Set 2
+<br> Skip List | Set 1 (Introduction)
+<br> Self Organizing List | Set 1 (Introduction)
+<br>
+<b>Trie:</b>
 
-| Memory efficient doubly linked list
-| XOR Linked List – A Memory Efficient Doubly Linked List | Set 1
-| XOR Linked List – A Memory Efficient Doubly Linked List | Set 2
-| Skip List | Set 1 (Introduction)
-| Self Organizing List | Set 1 (Introduction)
+<br> Trie | (Insert and Search)
+<br> Trie | (Delete)
+<br> Suffix Array and Suffix Tree:
 
- Trie:
+<br> Suffix Array Introduction
+<br> Suffix Array nLogn Algorithm
+<br> kasai’s Algorithm for Construction of LCP array from Suffix Array
+<br> Suffix Tree Introduction
+<br> Generalized Suffix Tree
+<br> Build Linear Time Suffix Array using Suffix Tree
+<br> Substring Check
+<br> Searching All Patterns
+<br> Longest Repeated Substring,
+<br> Longest Common Substring, Longest Palindromic Substring
+<br>
+<b>AVL Tree:</b>
 
-| Trie | (Insert and Search)
-| Trie | (Delete)
-| Suffix Array and Suffix Tree:
-
-| Suffix Array Introduction
-| Suffix Array nLogn Algorithm
-| kasai’s Algorithm for Construction of LCP array from Suffix Array
-| Suffix Tree Introduction
-| Generalized Suffix Tree
-| Build Linear Time Suffix Array using Suffix Tree
-| Substring Check
-| Searching All Patterns
-| Longest Repeated Substring,
-| Longest Common Substring, Longest Palindromic Substring
-
-AVL Tree:
-
-| AVL Tree | Set 1 (Insertion)
-| AVL Tree | Set 2 (Deletion)
-| AVL with duplicate keys
+<br> AVL Tree | Set 1 (Insertion)
+<br> AVL Tree | Set 2 (Deletion)
+<br> AVL with duplicate keys
