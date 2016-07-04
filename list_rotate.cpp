@@ -71,7 +71,7 @@ int main(){
 
     list_rotate(&head,x);
 
-     cout << "\nThe linked list after swapping nodes is : \n";
+     cout << "\nThe linked list after rotating nodes is : \n";
      traversal(head);
     return 0;
 }
