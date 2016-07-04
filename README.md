@@ -22,13 +22,13 @@ basic data structure programs, algorithm implementation implementations
 <br> Reverse a Linked List in groups of given size
 <br> Add two numbers represented by linked lists | Set 1
 <br> Rotate a Linked List
-
+<br>
 <br><b> Circular Linked List:</b>
-
 <br> Circular Linked List Introduction and Applications,
 <br>  Circular Linked List Traversal
 <br>  Split a Circular Linked List into two halves
 <br> Sorted insert for circular linked list
+<br>
 <br> Doubly Linked List:
 
 <br> Doubly Linked List Introduction and Insertion
@@ -38,8 +38,8 @@ basic data structure programs, algorithm implementation implementations
 <br> QuickSort on Doubly Linked List
 <br> Merge Sort for Doubly Linked List
 <br>
+<br>
 <b>Stack:</b>
-
 <br> Introduction to Stack
 <br> Infix to Postfix Conversion using Stack
 <br> Evaluation of Postfix Expression
@@ -56,8 +56,8 @@ basic data structure programs, algorithm implementation implementations
 <br> How to efficiently implement k stacks in a single array?
 <br> Sort a stack using recursion
 <br>
+<br>
 <b>Queue:</b>
-
 <br> Queue Introduction and Array Implementation
 <br> Linked List Implementation of Queue
 <br> Applications of Queue Data Structure
@@ -69,8 +69,8 @@ basic data structure programs, algorithm implementation implementations
 <br> An Interesting Method to Generate Binary Numbers from 1 to n
 <br> How to efficiently implement k Queues in a single array?
 <br>
+<br>
 <b>Binary Tree:</b>
-
 <br> Binary Tree Introduction
 <br> Handshaking Lemma and Interesting Tree Properties
 <br> Binary Tree Properties
@@ -94,8 +94,8 @@ basic data structure programs, algorithm implementation implementations
 <br> Check if a binary tree is subtree of another binary tree
 <br> Connect nodes at same level
 <br>
+<br>
 <b>Binary Search Tree:</b>
-
 <br> Search and Insert in BST
 <br> Deletion from BST
 <br> Minimum value in a Binary Search Tree
@@ -113,8 +113,8 @@ basic data structure programs, algorithm implementation implementations
 <br> Merge Two Balanced Binary Search Trees
 <br> Binary Tree to Binary Search Tree Conversion
 <br>
+<br>
 <b>Heap:</b>
-
 <br>Binary Heap
 <br> Why is Binary Heap Preferred over BST for Priority Queue?
 <br> Binomial Heap
@@ -123,6 +123,7 @@ basic data structure programs, algorithm implementation implementations
 <br> K’th Largest Element in an array
 <br> Sort an almost sorted array/
 <br> Tournament Tree (Winner Tree) and Binary Heap
+<br>
 <br>
 <b>Hashing:</b>
 <br>
@@ -137,8 +138,8 @@ Hashing Introduction
 <br> Find Itinerary from a given list of tickets
 <br> Find number of Employees Under every Employee
 <br>
-<b>Graph:</b>
 <br>
+<b>Graph:</b>
 <br> Introduction, DFS and BFS:
 <br> Graph and its representations
 <br> Breadth First Traversal for a Graph
@@ -156,22 +157,22 @@ Hashing Introduction
 <br> Boggle (Find all possible words in a board of characters)
 <br> Assign directions to edges so that the directed graph remains acyclic
 <br>
+<br>
 <b>Advanced Data Structure:</b>
 <br>
 Advanced Lists:
-<br>
 <br> Memory efficient doubly linked list
 <br> XOR Linked List – A Memory Efficient Doubly Linked List | Set 1
 <br> XOR Linked List – A Memory Efficient Doubly Linked List | Set 2
 <br> Skip List | Set 1 (Introduction)
 <br> Self Organizing List | Set 1 (Introduction)
 <br>
+<br>
 <b>Trie:</b>
-
 <br> Trie | (Insert and Search)
 <br> Trie | (Delete)
-<br> Suffix Array and Suffix Tree:
-
+<br>
+<br><b> Suffix Array and Suffix Tree:</b>
 <br> Suffix Array Introduction
 <br> Suffix Array nLogn Algorithm
 <br> kasai’s Algorithm for Construction of LCP array from Suffix Array
@@ -183,8 +184,8 @@ Advanced Lists:
 <br> Longest Repeated Substring,
 <br> Longest Common Substring, Longest Palindromic Substring
 <br>
+<br>
 <b>AVL Tree:</b>
-
 <br> AVL Tree | Set 1 (Insertion)
 <br> AVL Tree | Set 2 (Deletion)
 <br> AVL with duplicate keys
