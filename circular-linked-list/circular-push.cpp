@@ -16,7 +16,7 @@ void push(listNode **head,int val){
     p->data = val;
     p->next = *head;
     if(*head!=NULL){
-         cout <<"hi ";
+        // cout <<"hi ";
         while(current->next!=*head)
             current = current->next;
 
@@ -24,7 +24,7 @@ void push(listNode **head,int val){
 
     }
     else {
-       cout << "NULL ";
+      // cout << "NULL ";
        p->next = p;
     }
 
