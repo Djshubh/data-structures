@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
- int t = 0;
+ int t = 0;   //Here t defines the time complexity { log(n) }
 int find_max(int mint,int maxt, int arr[]){
     int midt,x,y;
     midt = mint + (maxt-mint)/2;
