@@ -1,0 +1,35 @@
+//longest common subsequence Implementation
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int max(int x,int y){
+    return x>y?x:y;
+}
+int main() {
+    
+    int i,j,m,n,t;
+    string a,b;
+    cin>>t;
+    while(t--){
+    int c[101][101]={0};    
+        cin>>m>>n;
+        cin>>a>>b ;
+        // cout<<"# ";
+        //for(j=1;j<=n;j++) cout<<b[j-1]<<" ";
+        for(i=1;i<=m;i++){ 
+        // cout <<"\n"<<a[i-1]<<" ";
+         for(j=1;j<=n;j++){
+            c[i][j]= max(c[i][j-1],c[i-1][j]);
+            if(a[i-1]==b[j-1])
+              c[i][j]+=1;
+        // cout<<c[i][j]<<" ";  
+         }
+         
+        }
+        cout <<c[m][n]<<"\n";
+    }
+	return 0;
+}
