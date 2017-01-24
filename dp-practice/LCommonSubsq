@@ -22,9 +22,11 @@ int main() {
         for(i=1;i<=m;i++){ 
         // cout <<"\n"<<a[i-1]<<" ";
          for(j=1;j<=n;j++){
-            c[i][j]= max(c[i][j-1],c[i-1][j]);
+              
             if(a[i-1]==b[j-1])
-              c[i][j]+=1;
+              c[i][j]=1+c[i-1][j-1];
+            else
+              c[i][j]= max(c[i][j-1],c[i-1][j]);  
         // cout<<c[i][j]<<" ";  
          }
          
